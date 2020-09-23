@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "name": "Iphone22",
+        "price": "22222",
+        "id": 8
+      },
+      {
+        "name": "Amazon2",
+        "price": "1",
+        "id": 9
+      },
+      {
+        "name": "GoPro4",
+        "price": 434334,
+        "id": 12
+      },
+      {
+        "name": "test",
+        "price": 23,
+        "id": 13
+      },
+      {
+        "name": "Test",
+        "price": 4443,
+        "id": 14
+      },
+      {
+        "name": "test",
+        "price": 3,
+        "id": 15
+      },
+      {
+        "name": "fasdfasdf",
+        "price": 32,
+        "id": 16
+      },
+      {
+        "name": "Book",
+        "price": 333,
+        "id": 17
+      },
+      {
+        "name": "Test",
+        "price": 2323,
+        "id": 18
+      },
+      {
+        "name": "new object",
+        "price": 3232,
+        "id": 19
+      },
+      {
+        "name": "bottle",
+        "price": 232,
+        "id": 20
+      },
+      {
+        "name": "Mug",
+        "price": 33,
+        "id": 21
+      },
+      {
+        "name": "terst",
+        "price": 23,
+        "id": 22
+      }
+    ]
+  }
