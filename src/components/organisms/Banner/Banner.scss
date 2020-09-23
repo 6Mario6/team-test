@@ -26,3 +26,18 @@
 
   }
 }
+
+
+@media (max-width:650px){
+  .banner {
+    &__title {
+      position: relative;
+        h2 {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%,50%);
+        }
+    }
+  }
+}
